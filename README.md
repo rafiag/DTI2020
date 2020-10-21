@@ -1,4 +1,4 @@
-# Digital Telent Incubator
+# Telkom Digital Talent Incubator (Data Scientist)
 Week 4 Assignment for Digital Talent Incubator - Telkom University
 
 1.   [Simple Linear Regression](https://colab.research.google.com/github/rc-dbe/dti/blob/main/001_regression.ipynb)
