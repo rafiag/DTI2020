@@ -1,6 +1,8 @@
 # Telkom Digital Talent Incubator (Data Scientist)
-Week 4 Assignment for Digital Talent Incubator - Telkom University
+## Rafi Atha Ganiza (NIP: DS0219)
+Assignment for Digital Talent Incubator - Telkom University
 
-1.   [Simple Linear Regression](https://colab.research.google.com/github/rc-dbe/dti/blob/main/001_regression.ipynb)
-2.   [Multiple Linear Regression (EN)](https://colab.research.google.com/github/rafiag/DTI-Linear-Regression/blob/main/002_Multi_Linear_Regression_(EN).ipynb)
-3.   [Multiple Linear Regression (ID)](https://colab.research.google.com/github/rafiag/DTI-Linear-Regression/blob/main/003_Multi_Linear_Regression_(ID).ipynb)
+1. [Simple Linear Regression](https://colab.research.google.com/github/rc-dbe/dti/blob/main/001_regression.ipynb)
+2. [Multiple Linear Regression (EN)](https://colab.research.google.com/github/rafiag/DTI-Linear-Regression/blob/main/002_Multi_Linear_Regression_(EN).ipynb) / [Multiple Linear Regression (ID)](https://colab.research.google.com/github/rafiag/DTI-Linear-Regression/blob/main/003_Multi_Linear_Regression_(ID).ipynb)
+3. [Classification - Churn Prediction (Practice)](https://colab.research.google.com/github/rafiag/DTI2020/blob/main/003_Classification_Churn_Prediction_(Practice).ipynb)
+4. [Classification - Bank Marketing Dataset (Assignment)](https://colab.research.google.com/github/rafiag/DTI2020/blob/main/004_Classification_Bank_Marketing_Dataset_(Assignment).ipynb)
